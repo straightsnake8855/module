@@ -8,6 +8,10 @@ public class Main {
 		System.out.println("HelloWorld");
 		// START
 
+		Sbkjlxyec sbkjlxyec = new Sbkjlxyec();
+		sbkjlxyec.speak();
+
+
 		Ypcysurml ypcysurml = new Ypcysurml();
 		ypcysurml.speak();
 
