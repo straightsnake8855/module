@@ -8,6 +8,10 @@ public class Main {
 		System.out.println("HelloWorld");
 		// START
 
+		Dgdjrcs dgdjrcs = new Dgdjrcs();
+		dgdjrcs.speak();
+
+
 		Nltupxdi nltupxdi = new Nltupxdi();
 		nltupxdi.speak();
 
