@@ -8,6 +8,10 @@ public class Main {
 		System.out.println("HelloWorld");
 		// START
 
+		Wymhwjtkbq wymhwjtkbq = new Wymhwjtkbq();
+		wymhwjtkbq.speak();
+
+
 		Dpida dpida = new Dpida();
 		dpida.speak();
 
