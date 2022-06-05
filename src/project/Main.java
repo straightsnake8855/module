@@ -8,6 +8,10 @@ public class Main {
 		System.out.println("HelloWorld");
 		// START
 
+		Uucobsfse uucobsfse = new Uucobsfse();
+		uucobsfse.speak();
+
+
 		Jbysxgue jbysxgue = new Jbysxgue();
 		jbysxgue.speak();
 
