@@ -8,6 +8,10 @@ public class Main {
 		System.out.println("HelloWorld");
 		// START
 
+		Ouugpga ouugpga = new Ouugpga();
+		ouugpga.speak();
+
+
 		Dqgbo dqgbo = new Dqgbo();
 		dqgbo.speak();
 
