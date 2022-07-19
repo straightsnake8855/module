@@ -8,6 +8,10 @@ public class Main {
 		System.out.println("HelloWorld");
 		// START
 
+		Ossypdfsdd ossypdfsdd = new Ossypdfsdd();
+		ossypdfsdd.speak();
+
+
 		Tiyef tiyef = new Tiyef();
 		tiyef.speak();
 
